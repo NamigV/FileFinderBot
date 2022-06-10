@@ -1,0 +1,15 @@
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\FileFinder.exe
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\FileFinder.dll
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\FileFinder.deps.json
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\FileFinder.runtimeconfig.json
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\FileFinder.pdb
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\Newtonsoft.Json.dll
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\System.Data.SqlClient.dll
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\System.Threading.Channels.dll
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\Telegram.Bot.dll
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mi\source\repos\FileFinder\FileFinder\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
